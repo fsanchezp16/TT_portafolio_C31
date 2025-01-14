@@ -17,6 +17,10 @@ En este Sprint, revisamos conceptos avanzados de la programación de python, tal
 -Funciones
 
 ### Sprint 3: Procesamiento de datos 1
+Estudiamos la librería de pandas, pasando por funciones como:
+-Lector de archivos
+-Agrupaciones
+-Limpieza de datos(ausentes y duplicados)
 
 ### Sprint 4: Procesamiento de datos 2
 
