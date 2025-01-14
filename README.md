@@ -23,6 +23,7 @@ Estudiamos la librería de pandas, pasando por funciones como:
 -Limpieza de datos(ausentes y duplicados)
 
 ### Sprint 4: Procesamiento de datos 2
+Estudiamos (no me acuerdo) pero el proyecto trato sobre supermercados.
 
 ### Sprint 5: Análisis estadístico de datos
 
