@@ -37,3 +37,4 @@ En este Sprint estudiamos conceptos de estadística básica, distribuciones y te
 
 
 ### Sprint 6: Primer proyecto de cierre  
+Este sprint consiste unicamente en el proyecto integrado el va sobre análisis de ventas de videojuegos
