@@ -12,6 +12,9 @@ En este Sprint, revisamos conceptos básicos de la programación de phyton tales
 -Listas simples y anidadas
 
 ### Sprint 2: Python básico 2
+En este Sprint, revisamos conceptos avanzados de la programación de python, tales como:
+-Bucles
+-Funciones
 
 ### Sprint 3: Procesamiento de datos 1
 
